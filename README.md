@@ -18,3 +18,7 @@ So (also, as suggested by the assessment docx) I'll use SMPLer-X or equivalent p
 ### Need to move to google colab
 
 Just found out my laptop ain't gonna be able to support the model. Will use google colab. Hopefully I will find a way to create a temporary minimal FastAPI endpoint and expose it to ngrok for a public demo later on. We'll find out as we explore.
+
+I'll use the pre-built notebook: https://colab.research.google.com/github/camenduru/SMPLer-X-colab/blob/main/SMPLer_X_colab.ipynb
+
+Here's my fork: https://colab.research.google.com/drive/1hsJsVNHT2KG1E1H8FB2ZSEA4KbrZpe4f?usp=sharing
