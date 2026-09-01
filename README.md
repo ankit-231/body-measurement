@@ -2,7 +2,7 @@
 
 # Logs
 
-# Day 1
+## Day 1
 
 Due to my other works, I will explore the models, maybe spin up a minimal example. I currently have 8.71 GB space on my laptop. It's a 16 GB laptop. I'll see if the pre-trained models function in this environment. If not, I'll search for a smaller model.
 
