@@ -1,0 +1,126 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# =========================
+# SMPLer-X / ML Models
+# =========================
+# Model checkpoints
+checkpoints/
+checkpoint/
+models/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+
+# Pretrained model downloads
+pretrained_models/
+model_data/
+
+# =========================
+# Datasets
+# =========================
+data/
+datasets/
+dataset/
+*.zip
+*.tar
+*.tar.gz
+
+# =========================
+# SMPL / SMPL-X assets
+# =========================
+smpl/
+smplx/
+body_models/
+human_models/
+
+# =========================
+# Experiment outputs
+# =========================
+output/
+outputs/
+results/
+result/
+runs/
+logs/
+log/
+experiments/
+exp/
+
+# TensorBoard
+events.out.tfevents.*
+
+# =========================
+# Generated visualizations
+# =========================
+renders/
+render/
+visualizations/
+visualization/
+demo_output/
+demo_outputs/
+
+# Images/videos generated during inference
+*.mp4
+*.avi
+*.mov
+*.webm
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+*.tmp
+*.bak
+*.cache
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Secrets / local config
+# =========================
+*.local
+config.local.*
