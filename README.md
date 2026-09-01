@@ -14,3 +14,7 @@ I thought of using [mediapipe](https://github.com/google-ai-edge/mediapipe) whic
 - Loose clothing hides the actual body contour under the fabric silhouette.
 
 So (also, as suggested by the assessment docx) I'll use SMPLer-X or equivalent pre-trained models
+
+### Need to move to google colab
+
+Just found out my laptop ain't gonna be able to support the model. Will use google colab. Hopefully I will find a way to create a temporary minimal FastAPI endpoint and expose it to ngrok for a public demo later on. We'll find out as we explore.
