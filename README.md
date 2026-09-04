@@ -21,7 +21,7 @@ Just found out my laptop ain't gonna be able to support the model. Will use goog
 
 I'll use the pre-built notebook: https://colab.research.google.com/github/camenduru/SMPLer-X-colab/blob/main/SMPLer_X_colab.ipynb
 
-Here's my fork: https://colab.research.google.com/drive/1hsJsVNHT2KG1E1H8FB2ZSEA4KbrZpe4f?usp=sharing
+Here's my fork (deprecated, see Day 4): https://colab.research.google.com/drive/1hsJsVNHT2KG1E1H8FB2ZSEA4KbrZpe4f?usp=sharing
 
 ### Day 2
 
@@ -30,3 +30,8 @@ Could not do it, because I was busy for in-person technical round for another co
 ### Day 3
 
 Will do it.
+
+### Day 4
+I'm setting up SMPLest-X in google colab.
+
+New Link: https://drive.google.com/file/d/1eOGZnm40s2VbhLm05GLtRR3giGYUxdVg/view?usp=sharing
