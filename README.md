@@ -68,17 +68,3 @@ Finally setup colab to generate pictures with mesh around it.
   </tr>
 </table>
 
-
-Woman Before:
-<img width="2000" height="3000" alt="person_woman" src="https://github.com/user-attachments/assets/c97f1818-0cfa-405b-8e0d-06fac0de9a12" />
-
-
-Woman Result:
-<img width="2000" height="3000" alt="result_person_woman" src="https://github.com/user-attachments/assets/b96f8f02-64fd-4425-9ae2-3c12a37cf75f" />
-
-Man Before:
-<img width="3210" height="4815" alt="person_man_1" src="https://github.com/user-attachments/assets/42f23ca1-8016-4f7c-b4ea-c355854526d9" />
-
-Man Result:
-<img width="3210" height="4815" alt="result_person_man_1" src="https://github.com/user-attachments/assets/94ce4429-d5f0-409b-af95-7281af932501" />
-
