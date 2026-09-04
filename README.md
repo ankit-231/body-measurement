@@ -41,6 +41,34 @@ New Link: https://drive.google.com/file/d/1eOGZnm40s2VbhLm05GLtRR3giGYUxdVg/view
 Finally setup colab to generate pictures with mesh around it.
 <img width="1920" height="999" alt="image" src="https://github.com/user-attachments/assets/d6b6b313-6029-4695-9d1e-de91eb48ab43" />
 
+<table>
+  <tr>
+    <th>Woman Before</th>
+    <th>Woman Result</th>
+  </tr>
+  <tr>
+    <td>
+      <img width="400" alt="person_woman" src="https://github.com/user-attachments/assets/c97f1818-0cfa-405b-8e0d-06fac0de9a12" />
+    </td>
+    <td>
+      <img width="400" alt="result_person_woman" src="https://github.com/user-attachments/assets/b96f8f02-64fd-4425-9ae2-3c12a37cf75f" />
+    </td>
+  </tr>
+  <tr>
+    <th>Man Before</th>
+    <th>Man Result</th>
+  </tr>
+  <tr>
+    <td>
+      <img width="400" alt="person_man_1" src="https://github.com/user-attachments/assets/42f23ca1-8016-4f7c-b4ea-c355854526d9" />
+    </td>
+    <td>
+      <img width="400" alt="result_person_man_1" src="https://github.com/user-attachments/assets/94ce4429-d5f0-409b-af95-7281af932501" />
+    </td>
+  </tr>
+</table>
+
+
 Woman Before:
 <img width="2000" height="3000" alt="person_woman" src="https://github.com/user-attachments/assets/c97f1818-0cfa-405b-8e0d-06fac0de9a12" />
 
